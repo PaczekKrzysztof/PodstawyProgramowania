@@ -1,0 +1,7 @@
+C:\Users\krzys\source\repos\Nauka\Zadanie3\bin\Debug\Zadanie3.exe.config
+C:\Users\krzys\source\repos\Nauka\Zadanie3\bin\Debug\Zadanie3.exe
+C:\Users\krzys\source\repos\Nauka\Zadanie3\bin\Debug\Zadanie3.pdb
+C:\Users\krzys\source\repos\Nauka\Zadanie3\obj\Debug\Zadanie3.csproj.AssemblyReference.cache
+C:\Users\krzys\source\repos\Nauka\Zadanie3\obj\Debug\Zadanie3.csproj.CoreCompileInputs.cache
+C:\Users\krzys\source\repos\Nauka\Zadanie3\obj\Debug\Zadanie3.exe
+C:\Users\krzys\source\repos\Nauka\Zadanie3\obj\Debug\Zadanie3.pdb

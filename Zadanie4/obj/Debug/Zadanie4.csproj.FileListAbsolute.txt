@@ -1,0 +1,7 @@
+C:\Users\krzys\source\repos\Nauka\Zadanie4\obj\Debug\Zadanie4.csproj.AssemblyReference.cache
+C:\Users\krzys\source\repos\Nauka\Zadanie4\obj\Debug\Zadanie4.csproj.CoreCompileInputs.cache
+C:\Users\krzys\source\repos\Nauka\Zadanie4\bin\Debug\Zadanie4.exe.config
+C:\Users\krzys\source\repos\Nauka\Zadanie4\bin\Debug\Zadanie4.exe
+C:\Users\krzys\source\repos\Nauka\Zadanie4\bin\Debug\Zadanie4.pdb
+C:\Users\krzys\source\repos\Nauka\Zadanie4\obj\Debug\Zadanie4.exe
+C:\Users\krzys\source\repos\Nauka\Zadanie4\obj\Debug\Zadanie4.pdb
