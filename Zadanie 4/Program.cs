@@ -8,7 +8,7 @@ namespace Zadanie_4
 {
     class Program
     {
-        static void Main(string[] args)//Napisać program wczytujący boki prostokąta i wypisujący na ekranie jego pole i obwód.
+        static void Main(string[] args)//Napisać program wczytujący boki prostokąta i wypisujący na ekranie jego pole i obwód...
         {
             int a, b;
             Console.WriteLine("Podaj boki prostokąta.");

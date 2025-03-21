@@ -8,7 +8,7 @@ namespace Zadanie_2
 {
     class Program
     {
-        static void Main(string[] args)//Napisać program wczytujący imię użytkownika i wypisujący na ekranie tekst "Witaj imię!". 
+        static void Main(string[] args)//Napisać program wczytujący imię użytkownika i wypisujący na ekranie tekst "Witaj imię!"...
         {
             string imię;
             Console.WriteLine("Jak masz na imię?");

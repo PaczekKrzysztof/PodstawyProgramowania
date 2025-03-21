@@ -8,7 +8,7 @@ namespace Zadanie_6
 {
     class Program
     {
-        static void Main(string[] args)//Napisać program wczytujący dwie liczby i wypisujący na ekranie ich sumę, różnicę, iloczyn i iloraz.
+        static void Main(string[] args)//Napisać program wczytujący dwie liczby i wypisujący na ekranie ich sumę, różnicę, iloczyn i iloraz...
         {
             double a, b;
             Console.WriteLine("Podaj dwie liczby");

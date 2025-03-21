@@ -8,7 +8,7 @@ namespace Zadanie_3
 {
     class Program
     {
-        static void Main(string[] args)//Napisać program wczytujący z klawiatury liczbę całkowitą i wypisujący na ekranie sześcian wczytanej liczby. 
+        static void Main(string[] args)//Napisać program wczytujący z klawiatury liczbę całkowitą i wypisujący na ekranie sześcian wczytanej liczby...
         {
             int a;
             Console.WriteLine("Podaj liczbę");

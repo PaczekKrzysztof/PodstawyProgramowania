@@ -8,7 +8,7 @@ namespace Zadanie_7
 {
     class Program
     {
-        static void Main(string[] args)//Napisać program wczytujący dwie liczby całkowite i wypisujący na ekranie iloraz tych liczb z uwzględnieniem części całkowitej i reszty z dzielenia. 
+        static void Main(string[] args)//Napisać program wczytujący dwie liczby całkowite i wypisujący na ekranie iloraz tych liczb z uwzględnieniem  części całkowitej i reszty z dzielenia. 
         {
             int a, b;
             Console.WriteLine("Podaj 2 liczby całkowite");
