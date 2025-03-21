@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zadanie_1
+namespace Zadanie1
 {
     class Program
     {
-        static void Main(string[] args)//Napisać program wypisujący na ekranie tekst "Witaj Świecie". 
+        static void Main(string[] args)
         {
-            Console.WriteLine("Witaj Świecie");
+            Console.WriteLine("Witaj świecie");
             Console.ReadKey(true);
         }
     }
