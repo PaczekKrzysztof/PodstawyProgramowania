@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 3 - WhileDoWhile", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 4 - WhileDoWhile", "Zadanie 4 - WhileDoWhile\Zadanie 4 - WhileDoWhile.csproj", "{FDB3AA9D-8443-4B0E-9E31-91DE6E87C7E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 5 - WhileDoWhile", "Zadanie 5 - WhileDoWhile\Zadanie 5 - WhileDoWhile.csproj", "{B3B42F96-0009-4693-A81D-C478AB58FB13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 6 - WhileDoWhile", "Zadanie 6 - WhileDoWhile\Zadanie 6 - WhileDoWhile.csproj", "{42A81FF1-14D0-430D-9EC0-2AC38FD2478C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{FDB3AA9D-8443-4B0E-9E31-91DE6E87C7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDB3AA9D-8443-4B0E-9E31-91DE6E87C7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDB3AA9D-8443-4B0E-9E31-91DE6E87C7E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3B42F96-0009-4693-A81D-C478AB58FB13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B42F96-0009-4693-A81D-C478AB58FB13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B42F96-0009-4693-A81D-C478AB58FB13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B42F96-0009-4693-A81D-C478AB58FB13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42A81FF1-14D0-430D-9EC0-2AC38FD2478C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A81FF1-14D0-430D-9EC0-2AC38FD2478C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A81FF1-14D0-430D-9EC0-2AC38FD2478C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A81FF1-14D0-430D-9EC0-2AC38FD2478C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
