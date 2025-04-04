@@ -1,11 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nauka", "Nauka\Nauka.csproj", "{D8E340DB-9776-4E93-B650-685774BB909F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 1", "Zadanie 1\Zadanie 1.csproj", "{363F2756-3B10-4AA1-8FF1-A7E9536518B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 1 - while", "Zadanie 1 - while\Zadanie 1 - while.csproj", "{42173609-79EE-43C6-A6DE-D36AA13D6470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 2-WhileDoWhile", "Zadanie 2-WhileDoWhile\Zadanie 2-WhileDoWhile.csproj", "{97F86C86-E9D7-408C-AFDD-2AAFA9109929}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 3 - WhileDoWhile", "Zadanie 3 - WhileDoWhile\Zadanie 3 - WhileDoWhile.csproj", "{CE70385A-E782-4FAC-B0F2-3521B59B24FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 4 - WhileDoWhile", "Zadanie 4 - WhileDoWhile\Zadanie 4 - WhileDoWhile.csproj", "{FDB3AA9D-8443-4B0E-9E31-91DE6E87C7E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +23,22 @@ Global
 		{D8E340DB-9776-4E93-B650-685774BB909F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8E340DB-9776-4E93-B650-685774BB909F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8E340DB-9776-4E93-B650-685774BB909F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{363F2756-3B10-4AA1-8FF1-A7E9536518B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{363F2756-3B10-4AA1-8FF1-A7E9536518B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{363F2756-3B10-4AA1-8FF1-A7E9536518B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{363F2756-3B10-4AA1-8FF1-A7E9536518B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42173609-79EE-43C6-A6DE-D36AA13D6470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42173609-79EE-43C6-A6DE-D36AA13D6470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42173609-79EE-43C6-A6DE-D36AA13D6470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42173609-79EE-43C6-A6DE-D36AA13D6470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97F86C86-E9D7-408C-AFDD-2AAFA9109929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F86C86-E9D7-408C-AFDD-2AAFA9109929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F86C86-E9D7-408C-AFDD-2AAFA9109929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F86C86-E9D7-408C-AFDD-2AAFA9109929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE70385A-E782-4FAC-B0F2-3521B59B24FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE70385A-E782-4FAC-B0F2-3521B59B24FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE70385A-E782-4FAC-B0F2-3521B59B24FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE70385A-E782-4FAC-B0F2-3521B59B24FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDB3AA9D-8443-4B0E-9E31-91DE6E87C7E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB3AA9D-8443-4B0E-9E31-91DE6E87C7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB3AA9D-8443-4B0E-9E31-91DE6E87C7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB3AA9D-8443-4B0E-9E31-91DE6E87C7E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
