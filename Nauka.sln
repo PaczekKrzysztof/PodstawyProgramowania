@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nauka", "Nauka\Nauka.csproj", "{D8E340DB-9776-4E93-B650-685774BB909F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 1", "Zadanie 1\Zadanie 1.csproj", "{363F2756-3B10-4AA1-8FF1-A7E9536518B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 1 - Forms", "Zadanie 1 - Forms\Zadanie 1 - Forms.csproj", "{2E66E866-5B1D-4E3E-8A74-AE5DFFA34DA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureViewer", "PictureViewer\PictureViewer.csproj", "{3D6472BF-6BE6-4D9C-B5F5-CA1B97676885}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{363F2756-3B10-4AA1-8FF1-A7E9536518B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{363F2756-3B10-4AA1-8FF1-A7E9536518B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{363F2756-3B10-4AA1-8FF1-A7E9536518B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E66E866-5B1D-4E3E-8A74-AE5DFFA34DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E66E866-5B1D-4E3E-8A74-AE5DFFA34DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E66E866-5B1D-4E3E-8A74-AE5DFFA34DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E66E866-5B1D-4E3E-8A74-AE5DFFA34DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D6472BF-6BE6-4D9C-B5F5-CA1B97676885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6472BF-6BE6-4D9C-B5F5-CA1B97676885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6472BF-6BE6-4D9C-B5F5-CA1B97676885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6472BF-6BE6-4D9C-B5F5-CA1B97676885}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
